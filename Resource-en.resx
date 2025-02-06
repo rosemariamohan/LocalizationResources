@@ -104,4 +104,7 @@
 	<data name="GOODBYEMESSAGE" xml:space="preserve">
     <value>Thank you for using our application. Goodbye!</value>
   </data>
+    <data name="LANGUAGENAME" xml:space="preserve">
+    <value>This is device current language is English</value>
+  </data>
 </root>
